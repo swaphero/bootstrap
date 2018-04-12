@@ -1,5 +1,5 @@
 - name: blue
-  hex: "#007bff"
+  hex: "#004baf"
 - name: indigo
   hex: "#6610f2"
 - name: purple
@@ -15,7 +15,7 @@
 - name: green
   hex: "#28a745"
 - name: teal
-  hex: "#20c997"
+  hex: "#00afe1"
 - name: cyan
   hex: "#17a2b8"
 - name: white
